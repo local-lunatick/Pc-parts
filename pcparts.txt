@@ -1,0 +1,20 @@
+processor;Intel Core i3 ;33000
+processor;Intel Core i5 ;54000
+processor;Intel Core i7 ;68000
+alaplap;Asus H61M-K ;46000
+alaplap;Gigabyte GA-B75TN ;38000
+alaplap;ASRock Z77 Extreme4 ;42000
+momoria;4 GB DDR III ;4000
+momoria;8 GB DDR III ;8000
+momoria;16 GB DDR III ;16000
+merevlemezek;500 GB ;8000
+merevlemezek;1 TB ;15000
+merevlemezek;2 TB ;27000
+monitorok;19’’ ;22000
+monitorok;21’’ ;35000
+monitorok;24’’ ;54000
+egyeb;Egér ;2000
+egyeb;Billentyűzet ;2500
+egyeb;Optikai meghajtó ;3800
+egyeb;Ház ;8000
+egyeb;Operációs rendszer ;35000
